@@ -140,10 +140,6 @@ section {
 }
 /* Hero Style End */
 
-.trainers {
-    
-}
-
 .trainer {
     width: 900px;
     margin: 0 auto 30px auto;
@@ -186,12 +182,8 @@ section {
     font-size: 17px;
     line-height: 1.3;
 }
-/*
-.intro {
-    text-align: center;
-  }
-  */ 
-  .intro p {
+
+.intro p {
     line-height: 1.7;
     color: #39a6b2;
     width: 80%;
